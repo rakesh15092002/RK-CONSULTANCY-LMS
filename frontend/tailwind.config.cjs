@@ -17,6 +17,15 @@ module.exports = {
         'auto':'repeat(auto-fit, minmax(220px, 1fr))',
         
       },
+      spacing: {
+        'section-height':'500px',
+      },
+      maxWidth: {
+        'course-content':'720px',
+      },
+      boxShadow: {
+        'custom-card':'0px 4px 15px 2px rgba(0, 0, 0, 0.1)',
+      },
 
     },
   },
